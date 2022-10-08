@@ -5,7 +5,7 @@
 </template>
 
 <script>
-
+log
 </script>
 
 <style lang="less">

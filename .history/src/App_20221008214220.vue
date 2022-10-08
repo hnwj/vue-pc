@@ -5,7 +5,7 @@
 </template>
 
 <script>
-
+console.log(’);
 </script>
 
 <style lang="less">
